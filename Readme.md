@@ -1,4 +1,5 @@
-Curso git'
+# Curso git
+
+Repositório criado para o curso de git do William Justen.
 
 
-Um teste para exemplificar o diff.
