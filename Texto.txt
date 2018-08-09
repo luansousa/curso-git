@@ -1,2 +1,3 @@
 Este é um arquivo de teste para
 treinar git.
+Modifiquei direto no github para usar o pull.
