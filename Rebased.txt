@@ -1,2 +1,3 @@
  Este arquivo vai ser juntado com o branch master com o rebase.'
  Foi corrigido um bug aqui.
+.
